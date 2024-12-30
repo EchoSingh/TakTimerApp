@@ -24,7 +24,7 @@ A simple and user-friendly Windows desktop application that allows users to set 
 ---
 
 ## 📝 License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
 
 ## 🙌 Acknowledgments
 Developed using Win32 API and Visual Studio.
